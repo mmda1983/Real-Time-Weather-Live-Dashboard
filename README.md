@@ -1,6 +1,6 @@
 ---
 
-# 🌦️ Weather Analytics Dashboard
+# 🌦️ Real Time Weather Live Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -90,9 +90,7 @@ The dashboard uses weather and air-quality data such as:
 
 ## 📸 Dashboard Preview
 
-```text
-📷 /images/weather_dashboard.png
-```
+https://github.com/mmda1983/Real-Time-Weather-Live-Dashboard/blob/main/weather.png
 
 ---
 
